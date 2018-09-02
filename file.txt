@@ -2,9 +2,5 @@
 - ¿Como estás?
 - Bueno, no importa
 - Hola, muñequico e fenpa
-<<<<<<< HEAD
-- ¿Por qué tardas en responder?
-- ¿Viste?
-=======
 - El muñeco programador
->>>>>>> ecbc77679e20d164dba7b017b3eadddc97932ca0
+- El muñeco que mueme
